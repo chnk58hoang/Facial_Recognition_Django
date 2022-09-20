@@ -1,0 +1,4 @@
+deepface==0.0.75
+django-cors-headers==3.13.0
+djangorestframework==3.13.1
+faiss-cpu==1.7.2
